@@ -1,0 +1,2 @@
+This .txt file comes from the "master" branch
+Hello !! from master.txt
